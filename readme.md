@@ -55,7 +55,6 @@
 [X-Forwarded-For Header Insert](security/x_forwarded_for_header_insert.md)
 [X-Client-IP allow requests from range of IPs](security/x_client_allow_request_from_range_of_ips.md)
 [Header Insertion for Content Security](security/header_insertion_for_content_security.md)
-[Certification Validation w Header Insertion, SSL Certificate for Content Security](security/certification_validation.md)
 [Remove X-* and Server Headers from Response](security/remove_x_headers_from_http_resp.md)
 [Close Connections without Host header](security/close_connection_without_host.md)
 [Redirect	Location	header	validator](security/redirect_location_header_validator.md)
