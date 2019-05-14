@@ -4,7 +4,7 @@ The script check if the request is HTTPS or not, if it is HTTPS it continiues an
 Datascript API (avi.ssl.check_client_cert_validity()) is to expose the different scenarios of client certificate validation namely:
 avi.http.add_header("PP_CLIENT_CERT",cert_data) - will insert the SSL certtificate in the PP_CLIENT_CERT header
 
-For a refernce to the response codes: https://linux.die.net/man/1/verify
+For  a refernce to response codes: https://linux.die.net/man/1/verify
 
 1. Certificate was presented by client and successfully validated
 2. Certificate was presented but not valid (Implementation of this condition is independent of bit map right now)
